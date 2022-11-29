@@ -1,0 +1,6 @@
+{
+  "$id": "Types/site.json",
+  "$type": "Models.Organization.OrganizationType",
+  "label": "Site",
+  "id": "site"
+}

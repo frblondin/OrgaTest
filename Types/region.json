@@ -1,0 +1,6 @@
+{
+  "$id": "Types/region.json",
+  "$type": "Models.Organization.OrganizationType",
+  "label": "Region",
+  "id": "region"
+}

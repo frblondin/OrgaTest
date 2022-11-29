@@ -1,0 +1,9 @@
+{
+  "$id": "Organizations/northAmerica/Organizations/canada/canada.json",
+  "$type": "Models.Organization.Organization",
+  "label": "Canada",
+  "type": {
+    "$ref": "Types/region.json"
+  },
+  "id": "canada"
+}

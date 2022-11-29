@@ -1,0 +1,10 @@
+{
+  "$id": "Organizations/siteX/siteX.json",
+  "$type": "Models.Organization.Organization",
+  "label": "Site X",
+  "type": {
+    "$ref": "Types/site.json"
+  },
+  "timeZone": "UTC;0;(UTC) Coordinated Universal Time;Coordinated Universal Time;Coordinated Universal Time;;",
+  "id": "siteX"
+}

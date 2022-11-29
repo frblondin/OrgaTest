@@ -1,0 +1,9 @@
+{
+  "$id": "Organizations/northAmerica/Organizations/usa/Organizations/alfa/alfa.json",
+  "$type": "Models.Organization.Organization",
+  "label": "Site Alfa",
+  "type": {
+    "$ref": "Types/zone.json"
+  },
+  "id": "alfa"
+}
